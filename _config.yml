@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Nautica Jones Ph.D. student at UC Santa Cruz"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Nautica Jones"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://NauticaJones.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Nautica Jones"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Nautica Jones is pursuing a doctoral degree in ecology and evolutionary biology at the University of California Santa Cruz. Her graduate dissertation with Dr. Erika Zavaleta of the Conservation Science and Solutions Lab will investigate the ecological and climate resilience legacies of slavery and marronage on postbellum landscapes in the southeastern United States, Puerto Rico, and St. Croix. Nautica completed her Bachelor of Science in Biology with a concentration in ecology and evolution at the University of Louisiana Monroe. In her undergraduate thesis research with Dr. Joydeep Bhattacharjee of the Plant Ecology Lab, Jones assessed the diversity and abundance of native and invasive woody species within Louisiana’s “chenier” forests to understand their rapid decline. Nautica finds inspiration for her work in the resistance and conservation activity of maroon peoples who despite the trials of gaining and maintaining freedom still worked to mitigate the environmentally destructive operations of plantations.  Her career goals are to create culturally informed climate resilience plans and to rewrite the narrative of nonexistence regarding diasporic black land relationships and conservation impacts. In addition to her academic pursuits Nautica is a dedicated mentor and budding community organizer. She has served as a graduate student mentor to over 50 undergraduate students of color, a race and politics panelist with the NAACP, and a co-organizer and presenter of Eco-Afro Futures a pro-black community engagement and science communication event. r"
+  location         : "Santa Cruz, Ca"
+  employer         : "UC Santa Cruz"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "natjones@ucsc.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
